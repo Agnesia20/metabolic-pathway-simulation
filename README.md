@@ -25,5 +25,5 @@ Where the reaction rates are defined as:
 
 ## 🚀 Installation & Usage
 
-1. [Hasil](Hasil%20Programming%20.png)
-2. [Script](Script%20Programming%20.png)
+1. [Hasil](Hasil%20Programming.png)
+2. [Script](Script%20Programming.py)
