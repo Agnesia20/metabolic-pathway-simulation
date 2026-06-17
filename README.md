@@ -25,7 +25,5 @@ Where the reaction rates are defined as:
 
 ## 🚀 Installation & Usage
 
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
-   cd YOUR_REPO_NAME
+1. [Hasil](Hasil%20Programming%20.png)
+2. [Script](Script%20Programming%20.png)
